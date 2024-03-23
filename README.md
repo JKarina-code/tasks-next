@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tasks
 
-## Getting Started
+This project is about tasks planning.
 
-First, run the development server:
+## Project description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tasks planning using Next, Tailwind CSS, Prisma, and database.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📁 Project access
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- $ git clone https://github.com/JKarina-code/tasks-next.git
+- $ cd ../path/to/the/file
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🛠️ Used technology
 
-## Learn More
+- [CSS](https://www.w3schools.com/Css/)
+- [HTML](https://www.w3schools.com/html/)
+- [Node](https://nodejs.org/en)
+- [React](https://react.dev/)
+- [Next](https://nextjs.org/)
+- [Prisma](https://www.prisma.io/)
+- [Tailwind](https://tailwindcss.com/)
+- [Git](https://git-scm.com/docs)
 
-To learn more about Next.js, take a look at the following resources:
+## Project
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![task-next-form](https://github.com/JKarina-code/tasks-next/assets/29663094/3f2c4e9f-dd97-40c2-83ac-62e5a4d074b7)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![task-next-list](https://github.com/JKarina-code/tasks-next/assets/29663094/08c5a536-c7a5-4e70-8086-202dcecf5c60)
 
-## Deploy on Vercel
+![update-task](https://github.com/JKarina-code/tasks-next/assets/29663094/f797bbfa-b9c2-429c-8379-8c3b24fbfb3c)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![database](https://github.com/JKarina-code/tasks-next/assets/29663094/23ae3b60-44e9-444b-b300-b9605b5dd297)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![database-update](https://github.com/JKarina-code/tasks-next/assets/29663094/0a45f071-4b2d-4f2d-bc8d-ae8ac4a76766)
