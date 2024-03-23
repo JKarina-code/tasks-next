@@ -24,16 +24,21 @@ Tasks planning using Next, Tailwind CSS, Prisma, and database.
 
 ## Project
 
+Form 
+
 ![task-next-form](https://github.com/JKarina-code/tasks-next/assets/29663094/3f2c4e9f-dd97-40c2-83ac-62e5a4d074b7)
 
+Tasks List
 
 ![task-next-list](https://github.com/JKarina-code/tasks-next/assets/29663094/08c5a536-c7a5-4e70-8086-202dcecf5c60)
 
-
+Update Task
 ![update-task](https://github.com/JKarina-code/tasks-next/assets/29663094/f797bbfa-b9c2-429c-8379-8c3b24fbfb3c)
 
+Database sqlite
 
 ![database](https://github.com/JKarina-code/tasks-next/assets/29663094/23ae3b60-44e9-444b-b300-b9605b5dd297)
 
+Update database
 
 ![database-update](https://github.com/JKarina-code/tasks-next/assets/29663094/0a45f071-4b2d-4f2d-bc8d-ae8ac4a76766)
